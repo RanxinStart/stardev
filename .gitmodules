@@ -1,0 +1,3 @@
+[submodule "packages/fn-component-gen"]
+	path = packages/fn-component-gen
+	url = https://github.com/RanxinStart/fn-component-gen.git
