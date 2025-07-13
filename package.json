@@ -1,0 +1,19 @@
+{
+  "name": "stardev",
+  "private": true,
+  "workspaces": [
+    "packages/fn-component-gen"
+  ],
+  "devDependencies": {
+    "rollup": "^4.44.2",
+    "rollup-plugin-dts": "^6.2.1",
+    "rollup-plugin-esbuild": "^6.2.1",
+    "typescript": "^5.8.3"
+  },
+  "author": "ranxin",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
