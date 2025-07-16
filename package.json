@@ -2,6 +2,7 @@
   "name": "stardev",
   "private": true,
   "workspaces": [
+    "packages/*",
     "packages/fn-component-gen"
   ],
   "devDependencies": {
