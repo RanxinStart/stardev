@@ -4,5 +4,5 @@
 	url = https://gitee.com/RanxinStart/fn-component-gen.git
 [submodule "packages/rcli"]
 	path = packages/rcli
-#	url = https://gitee.com/RanxinStart/fn-component-gen.git
+#	url = https://github.com/RanxinStart/fn-component-gen.git
 	url = https://gitee.com/RanxinStart/rcli.git
