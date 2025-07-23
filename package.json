@@ -3,7 +3,8 @@
   "private": true,
   "workspaces": [
     "packages/*",
-    "packages/fn-component-gen"
+    "packages/fn-component-gen",
+    "packages/rcli"
   ],
   "devDependencies": {
     "rollup": "^4.44.2",
